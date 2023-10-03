@@ -19,4 +19,4 @@ gantt
 ```
 ## PERT/CPM 
 ## 關鍵路徑
-![pert](pert.PNG "pert")
+![pert2](pert2.PNG "pert2")
