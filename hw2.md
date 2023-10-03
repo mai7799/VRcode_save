@@ -3,7 +3,7 @@
 ## 甘特圖
 ```mermaid
 gantt
-    title A Gantt Diagram
+    title 日常
 
     section Section
     A task           :a1, 2014-01-01, 30d
