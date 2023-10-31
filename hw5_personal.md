@@ -1,3 +1,4 @@
+```js
 CShape.java        
 abstract class CShape{
     protected String color;
@@ -34,3 +35,4 @@ public class app11 {
     ct.show();
 }
 }
+```
